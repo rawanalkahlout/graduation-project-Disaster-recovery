@@ -36,5 +36,5 @@ supervising our project.
 #
 ![332156285_234288132280500_6851514437032615719_n](https://user-images.githubusercontent.com/74033939/222916692-e11957d3-544e-4c62-bdc0-00914a6b2987.jpg)
 
-# high availability dy appliy disaster site on azure 
+# high availability by bulid Disaster recovery on cloud
 ![332906939_5884902818257264_4670201034764982168_n](https://user-images.githubusercontent.com/74033939/222916761-448b9b73-d251-4963-a3d8-63abbef7fb79.jpg)
