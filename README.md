@@ -31,3 +31,5 @@ supervising our project.
 
 ## Designing the solution for the municipality of Khan Yunis
 ![331025347_1277762682808539_5855722763322911996_n](https://user-images.githubusercontent.com/74033939/222916576-71c623b2-0cae-4a04-bac7-d14d43ea10c9.jpg)
+
+![332156285_234288132280500_6851514437032615719_n](https://user-images.githubusercontent.com/74033939/222916692-e11957d3-544e-4c62-bdc0-00914a6b2987.jpg)
