@@ -28,3 +28,6 @@ Finally, the writing of the project report was completed and implemented in a pr
 thanks to God and the efforts of our supervisor, thanking him for his effort in following up and 
 supervising our project.
 
+
+## Designing the solution for the municipality of Khan Yunis
+![331025347_1277762682808539_5855722763322911996_n](https://user-images.githubusercontent.com/74033939/222916576-71c623b2-0cae-4a04-bac7-d14d43ea10c9.jpg)
